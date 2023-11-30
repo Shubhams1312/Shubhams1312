@@ -6,6 +6,11 @@
 - 📫 How to reach me **shubhamsukla74@gmail.com**
 
 - 📄 Know about me [https://www.linkedin.com/in/shubhamkamleshshukla](https://www.linkedin.com/in/shubhamkamleshshukla)
+- 🔭 I’m currently working at [Kanishka Software Pvt Ltd](https://kanishkasoftware.com/)
+
+- 🌱 I’m currently learning **Laravel**
+
+- 💬 Ask me about **Laravel, PHP,**
 
 <h3 align="left">Connect with me:</h3>
 
